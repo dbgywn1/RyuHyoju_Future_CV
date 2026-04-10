@@ -39,7 +39,6 @@
 - **[네이버 부스트캠프 10기](https://boostcamp.naver.com/)**: 풀스택 엔지니어링 과정 및 지속 가능한 개발 문화 체득
 - **[삼성 청년 SW아카데미(SSAFY) 14기](https://www.ssafy.com/)**: 기업 연계 프로젝트 최우수상 수상
 - **[Apple Developer Academy @POSTECH](https://developeracademy.postech.ac.kr/)**: Apple HIG 기반의 인터랙티브 앱 설계 과정 이수
-<br>
 
 ---
 
