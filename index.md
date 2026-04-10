@@ -20,7 +20,7 @@
 - **Design**: Figma, Adobe Creative Cloud, Unity
 - **DevOps/Tools**: Git, AWS, Docker, Linux
   
-----
+---
 
 <br>
 
